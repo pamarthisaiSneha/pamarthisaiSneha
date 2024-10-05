@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pamarthisaiSneha
+- 👋 Hi, I’m @PAMARTHI SAI SNEHA
 - 👀 I’m interested in ...Digital Design and Verification Engineer
 - 🌱 I’m currently learning ...Digital Electronics, Verilog, System Verilog, UVM.
 - 💞️ I’m looking to collaborate on ...Verification roles
