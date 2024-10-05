@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PAMARTHI SAI SNEHA
-- 👀 I’m interested in ...Digital Design and Verification Engineer
+- 👀 I’m interested in ... Design and Verification Engineer
 - 🌱 I’m currently learning ...Digital Electronics, Verilog, System Verilog, UVM.
+- PROTOCOLS :AMBA APB PROTOCOL.
 - 💞️ I’m looking to collaborate on ...Verification roles
 - 📫 How to reach me ...Let's connect professionally!----------linkedin.com/in/pamarthi-sai-sneha
 
